@@ -2,7 +2,7 @@
 
 I'm a full stack developer working in Hyderabad, currently interning at [@futuristiclabs](https://github.com/futuristiclabs)
 
-[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=roguedev9)](https://github.com/roguedev9/github-readme-stats)
 
 <!--
 **rogueDev9/rogueDev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
