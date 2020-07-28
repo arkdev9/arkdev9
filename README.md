@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a full stack developer working in Hyderabad, currently interning at [@futuristiclabs](https://github.com/futuristiclabs)
+I'm a full stack developer working in Hyderabad, currently at [@futuristiclabs](https://github.com/futuristiclabs)
 
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=roguedev9&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
