@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a full stack developer working remotely at [@voxlogic](https://github.com/vox-logic)
+I'm a full stack developer working remotely at [@vox-logic](https://github.com/vox-logic)
 
 [![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=roguedev9&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
