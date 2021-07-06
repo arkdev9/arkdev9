@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a full stack developer working remotely at [@vox-logic](https://github.com/vox-logic)
+I'm a full stack developer working remotely at [@QatapultAI](https://github.com/qatapultai)
 
 <!--
 **rogueDev9/rogueDev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
