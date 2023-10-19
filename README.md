@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a full stack developer working remotely at [@commure](https://github.com/commure)
+I'm a full stack developer working at [@commure](https://github.com/commure)
 
 <!--
 **rogueDev9/rogueDev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
